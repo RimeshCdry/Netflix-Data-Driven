@@ -55,11 +55,11 @@ Follow these steps to set up the project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-    cd Data-Driven-Netflix
+   cd Data-Driven-Netflix
     ```
 3. cd Data-Driven-Netflix
     ```bash
-    pip install -r requirements.txt
+   pip install -r requirements.txt
     ```
 ## 🛠️ Technologies Used
 - Python: Programming language
